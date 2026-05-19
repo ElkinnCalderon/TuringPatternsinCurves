@@ -338,12 +338,15 @@ Possible extensions include:
 
 ---
 
-## Author
-
-Research project focused on:
+## Research project focused on:
 
 - Reaction--diffusion systems
 - Turing instability
 - Geometric analysis
 - Homogenization theory
 - Pattern formation on periodic curves
+
+## Authors
+
+- Elkinn Adrian Calderon Barreto
+- Dayana Carolina Colimba Tarapuez
